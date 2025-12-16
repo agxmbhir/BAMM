@@ -1,0 +1,12 @@
+[package]
+name = "batch_auction_amm"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "batch_auction_amm"
+path = "src/lib.rs"
+
+[dependencies]
+
+
